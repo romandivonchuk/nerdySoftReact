@@ -1,0 +1,10 @@
+.create-post {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  
+}
+
+.create-post > div {
+  padding: 20px;
+}
