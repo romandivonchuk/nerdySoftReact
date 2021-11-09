@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/nerdySoftReact/static/css/main.3b409358.chunk.css",
+    "main.js": "/nerdySoftReact/static/js/main.03e00996.chunk.js",
+    "main.js.map": "/nerdySoftReact/static/js/main.03e00996.chunk.js.map",
+    "runtime-main.js": "/nerdySoftReact/static/js/runtime-main.c1485798.js",
+    "runtime-main.js.map": "/nerdySoftReact/static/js/runtime-main.c1485798.js.map",
+    "static/js/2.80bd7f75.chunk.js": "/nerdySoftReact/static/js/2.80bd7f75.chunk.js",
+    "static/js/2.80bd7f75.chunk.js.map": "/nerdySoftReact/static/js/2.80bd7f75.chunk.js.map",
+    "index.html": "/nerdySoftReact/index.html",
+    "static/css/main.3b409358.chunk.css.map": "/nerdySoftReact/static/css/main.3b409358.chunk.css.map",
+    "static/js/2.80bd7f75.chunk.js.LICENSE.txt": "/nerdySoftReact/static/js/2.80bd7f75.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1485798.js",
+    "static/js/2.80bd7f75.chunk.js",
+    "static/css/main.3b409358.chunk.css",
+    "static/js/main.03e00996.chunk.js"
+  ]
+}
